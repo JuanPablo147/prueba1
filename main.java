@@ -7,5 +7,7 @@ public class main{
     public void pedro(){
         System.out.println("hola mundo");
     }
-    
+     public void c(){
+        System.out.println("hola mundo");
+    }   
 }
